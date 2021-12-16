@@ -1,0 +1,1 @@
+A java program which uses multithreading to simulate 5 taxis. They pick up customer data like pickup, dropoff location from a txt file. A driver can only pick 4 customers before going on a break. There is also a random time break in threads execution to simulate real time driving distances. 
