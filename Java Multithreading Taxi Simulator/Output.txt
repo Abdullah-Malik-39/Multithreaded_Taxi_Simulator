@@ -1,0 +1,50 @@
+Driver #2 is on Duty
+Driver #1 is on Duty
+Driver #3 is on Duty
+Driver #4 is on Duty
+Driver #5 is on Duty
+Cust#2 has been picked up by Driver #5 proceeding from White Plains to Yankee Stadium(The customer count is 1)
+Cust#1 has been picked up by Driver #3 proceeding from Yorktown Heights to Madison Square Garden(The customer count is 1)
+Cust#3 has been picked up by Driver #1 proceeding from Yonkers to MetLife Stadium(The customer count is 1)
+Cust#4 has been picked up by Driver #4 proceeding from Yorktown Heights to Madison Square Garden(The customer count is 1)
+Cust#5 has been picked up by Driver #2 proceeding from White Plains to Yankee Stadium(The customer count is 1)
+Cust#1 was dropped off at Madison Square Garden by Driver #3
+Cust#6 has been picked up by Driver #3 proceeding from Yonkers to MetLife Stadium(The customer count is 2)
+Cust#2 was dropped off at Yankee Stadium by Driver #5
+Cust#7 has been picked up by Driver #5 proceeding from Yorktown Heights to Madison Square Garden(The customer count is 2)
+Cust#7 was dropped off at Madison Square Garden by Driver #5
+Cust#8 has been picked up by Driver #5 proceeding from White Plains to Yankee Stadium(The customer count is 3)
+Cust#4 was dropped off at Madison Square Garden by Driver #4
+Cust#9 has been picked up by Driver #4 proceeding from White Plains to Yankee Stadium(The customer count is 2)
+Cust#6 was dropped off at MetLife Stadium by Driver #3
+Cust#10 has been picked up by Driver #3 proceeding from White Plains to Yankee Stadium(The customer count is 3)
+Cust#9 was dropped off at Yankee Stadium by Driver #4
+Cust#11 has been picked up by Driver #4 proceeding from White Plains to Yankee Stadium(The customer count is 3)
+Cust#3 was dropped off at MetLife Stadium by Driver #1
+Cust#12 has been picked up by Driver #1 proceeding from White Plains to Yankee Stadium(The customer count is 2)
+Cust#5 was dropped off at Yankee Stadium by Driver #2
+Cust#13 has been picked up by Driver #2 proceeding from White Plains to Yankee Stadium(The customer count is 2)
+Cust#12 was dropped off at Yankee Stadium by Driver #1
+Cust#14 has been picked up by Driver #1 proceeding from White Plains to Yankee Stadium(The customer count is 3)
+Cust#8 was dropped off at Yankee Stadium by Driver #5
+Cust#15 has been picked up by Driver #5 proceeding from White Plains to Yankee Stadium(The customer count is 4)
+Cust#10 was dropped off at Yankee Stadium by Driver #3
+Cust#16 has been picked up by Driver #3 proceeding from White Plains to Yankee Stadium(The customer count is 4)
+Cust#15 was dropped off at Yankee Stadium by Driver #5
+Driver #5 is Off Duty. 4 customers were picked today.
+Cust#11 was dropped off at Yankee Stadium by Driver #4
+Cust#17 has been picked up by Driver #4 proceeding from White Plains to Yankee Stadium(The customer count is 4)
+Cust#17 was dropped off at Yankee Stadium by Driver #4
+Driver #4 is Off Duty. 4 customers were picked today.
+Cust#13 was dropped off at Yankee Stadium by Driver #2
+Cust#16 was dropped off at Yankee Stadium by Driver #3
+Driver #3 is Off Duty. 4 customers were picked today.
+Cust#18 has been picked up by Driver #2 proceeding from White Plains to Yankee Stadium(The customer count is 3)
+Cust#14 was dropped off at Yankee Stadium by Driver #1
+Cust#18 was dropped off at Yankee Stadium by Driver #2
+Cust#19 has been picked up by Driver #1 proceeding from White Plains to Yankee Stadium(The customer count is 4)
+Cust#20 has been picked up by Driver #2 proceeding from White Plains to Yankee Stadium(The customer count is 4)
+Cust#19 was dropped off at Yankee Stadium by Driver #1
+Driver #1 is Off Duty. 4 customers were picked today.
+Cust#20 was dropped off at Yankee Stadium by Driver #2
+Driver #2 is Off Duty. 4 customers were picked today.
